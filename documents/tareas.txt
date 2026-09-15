@@ -1,2 +1,2 @@
 usuario 1: tarea 1
-usuario 2: tarea 2
+usuario 2: tarea 2 (HECHA)
